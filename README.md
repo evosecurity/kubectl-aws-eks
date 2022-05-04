@@ -1,6 +1,8 @@
 # Docker and Github Action for Kubernetes CLI
 
-This action provides `kubectl` for Github Actions.
+This action provides a `kubectl` for Github Actions using v1.21.12
+
+# This Pegs the version of kubectl to v1.21.12
 
 ## Usage
 
