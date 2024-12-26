@@ -1,0 +1,14 @@
+name: kubectl-aws-eks
+id: ari:cloud:compass:7ab74c8c-cdc7-47b4-ac42-498142383c41:component/e7890024-d21a-491e-8eed-88aeb93717f5/b79427c5-304f-4af3-9f6e-19259581489a
+description: A Github action for kubectl, the Kubernetes CLI
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:dockerfile
+  - source:github
+customFields: null
